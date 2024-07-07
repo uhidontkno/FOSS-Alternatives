@@ -3,3 +3,5 @@
 <hr>
 
 ## 1. What is F(L)OSS?
+Let this graphic teach you.<br>
+![Free (Libre) Open Source Software](FLOSS.svg)
