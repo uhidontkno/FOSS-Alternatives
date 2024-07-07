@@ -24,6 +24,16 @@ Let this graphic teach you.<br>
     - 
 - Messaging:
     -
+
+
+## 3. FOSS apps for Mobile
+### Android ROMs:
+### App Stores:
+
+## 4. Alternatives to Big Tech
+* **Odysee** (Alternative to YouTube, owned by Google. [Source](https://github.com/OdyseeTeam), [Website](https://odysee.com)) 
+* **Penpot** (Alternative to Figma, owned by Adobe. [Source](https://github.com/penpot/penpot), [Website](https://penpot.app), **Self-hostable!**)
+
 ### [Phone Link](https://en.wikipedia.org/wiki/Phone_Link):
 **Phone Link** is a syncing software developed by [Microsoft](https://en.wikipedia.org/wiki/Microsoft "Microsoft") to connect [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows "Microsoft Windows") PCs to [Android](https://en.wikipedia.org/wiki/Android_(operating_system) "Android (operating system)") and [iOS](https://en.wikipedia.org/wiki/IOS "IOS") mobile devices to view notifications, make phone calls, use mobile apps amongst others, control audio, via the PC.
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Phone_Link)
@@ -33,13 +43,6 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Phone_Link)
 * **KDE Connect** ([Source](https://invent.kde.org/network/kdeconnect-kde), [Wikipedia](https://en.wikipedia.org/wiki/KDE_Connect), [Website](https://kdeconnect.kde.org/)) (Supported on Linux, BSD, MacOS (alpha), Windows, Android and iOS. Made for KDE.)
 * **GSConnect** ([Source](https://github.com/GSConnect/gnome-shell-extension-gsconnect), [GNOME Extensions Page](https://extensions.gnome.org/extension/1319/gsconnect/), [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/gsconnect/), [Chrome Extension](https://chromewebstore.google.com/detail/gsconnect/jfnifeihccihocjbfcfhicmmgpjicaec), [Download](https://github.com/GSConnect/gnome-shell-extension-gsconnect/wiki/Installation#standard)) (Supported on Linux, BSD, Chrome, Firefox, Android, iOS, MacOS (alpha), and Windows. Made for GNOME.)
 * **LocalSend** ([Source](https://github.com/localsend/localsend), [Website](https://localsend.org/)) (Supported on Windows, macOS, Linux, Android, and iOS.)
-* **RetroShare** ([Source](https://github.com/RetroShare/RetroShare),[Website](https://retroshare.cc/)) (Supported on Mac, Windows, Linux, Android, BSD)
+* **RetroShare** ([Source](https://github.com/RetroShare/RetroShare), [Website](https://retroshare.cc/)) (Supported on Mac, Windows, Linux, Android, BSD)
 
-## 3. FOSS apps for Mobile
-### Android ROMs:
-### App Stores:
-
-## 4. Alternatives to Big Tech
-* **Odysee** (Alternative to YouTube, owned by Google. [Source](https://github.com/OdyseeTeam), [Website](https://odysee.com)) 
-* **Penpot** (Alternative to Figma, owned by Adobe. [Source](https://github.com/penpot/penpot), [Website](https://penpot.app), **Self-hostable!**)
 <hr>
