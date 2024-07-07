@@ -30,7 +30,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Phone_Link)
 <br>
 <br>
 **FOSS Alternatives to Phone Link**:
-* KDE Connect ([Source](https://invent.kde.org/network/kdeconnect-kde) [Wikipedia](https://en.wikipedia.org/wiki/KDE_Connect) [Website](https://kdeconnect.kde.org/))
+* KDE Connect ([Source](https://invent.kde.org/network/kdeconnect-kde) [Wikipedia](https://en.wikipedia.org/wiki/KDE_Connect) [Website](https://kdeconnect.kde.org/)) (Supported on Linux, MacOS (alpha), Windows, Android and iOS)
 
 ## 3. Alternatives for Mobile
 ### Android ROMs:
