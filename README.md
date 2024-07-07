@@ -38,4 +38,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Phone_Link)
 ## 3. Alternatives for Mobile
 ### Android ROMs:
 
+## 4. Alternatives to Big Tech
+* **Odysee** (Alternative to YouTube, owned by Google. [Source](https://github.com/OdyseeTeam), [Website](https://odysee.com)) 
+* **Penpot** (Alternative to Figma, owned by Adobe. [Source](https://github.com/penpot/penpot), [Website](https://penpot.app), **Self-hostable!**)
 <hr>
