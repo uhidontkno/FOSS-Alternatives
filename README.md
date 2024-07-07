@@ -21,7 +21,7 @@ Let this graphic teach you.<br>
 ### Video Editing:
 ### Communication:
 - Email:
-    - 
+    - **Thunderbird** (Email client by Mozilla, [Website](https://thunderbird.net) ,[Source](https://github.com/thunderbird))
 - Messaging:
     -
 
