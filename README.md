@@ -12,7 +12,7 @@ Let this graphic teach you.<br>
 
 <hr>
 
-## 2. Alternatives for Desktop
+## 2. FOSS apps for Desktop
 ### Office:
 ### Text Editing / Coding:
 ### Hosting:
@@ -35,8 +35,9 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Phone_Link)
 * **LocalSend** ([Source](https://github.com/localsend/localsend), [Website](https://localsend.org/)) (Supported on Windows, macOS, Linux, Android, and iOS.)
 * **RetroShare** ([Source](https://github.com/RetroShare/RetroShare),[Website](https://retroshare.cc/)) (Supported on Mac, Windows, Linux, Android, BSD)
 
-## 3. Alternatives for Mobile
+## 3. FOSS apps for Mobile
 ### Android ROMs:
+### App Stores:
 
 ## 4. Alternatives to Big Tech
 * **Odysee** (Alternative to YouTube, owned by Google. [Source](https://github.com/OdyseeTeam), [Website](https://odysee.com)) 
