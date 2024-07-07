@@ -33,6 +33,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Phone_Link)
 * **KDE Connect** ([Source](https://invent.kde.org/network/kdeconnect-kde), [Wikipedia](https://en.wikipedia.org/wiki/KDE_Connect), [Website](https://kdeconnect.kde.org/)) (Supported on Linux, BSD, MacOS (alpha), Windows, Android and iOS. Made for KDE.)
 * **GSConnect** ([Source](https://github.com/GSConnect/gnome-shell-extension-gsconnect), [GNOME Extensions Page](https://extensions.gnome.org/extension/1319/gsconnect/), [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/gsconnect/), [Chrome Extension](https://chromewebstore.google.com/detail/gsconnect/jfnifeihccihocjbfcfhicmmgpjicaec), [Download](https://github.com/GSConnect/gnome-shell-extension-gsconnect/wiki/Installation#standard)) (Supported on Linux, BSD, Chrome, Firefox, Android, iOS, MacOS (alpha), and Windows. Made for GNOME.)
 * **LocalSend** ([Source](https://github.com/localsend/localsend), [Website](https://localsend.org/)) (Supported on Windows, macOS, Linux, Android, and iOS.)
+* **RetroShare** ([Source](https://github.com/RetroShare/RetroShare),[Website](https://retroshare.cc/)) (Supported on Mac, Windows, Linux, Android, BSD)
 
 ## 3. Alternatives for Mobile
 ### Android ROMs:
